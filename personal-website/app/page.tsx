@@ -28,7 +28,7 @@ export default function Page() {
   high-performance systems. Focused on optimizing tech operations, I’m constantly learning and exploring
   new technologies.
 </p>
-<p>
+<p> 
   I'm also exploring new ventures, with a goal to create innovative solutions that make a lasting impact.
 </p>
 <p>
