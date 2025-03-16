@@ -1,14 +1,14 @@
 export const metaData = {
-  baseUrl: "https://nextfolio-template.vercel.app/",
+  baseUrl: "https://williamalvarez.dev/",
   title: "William Alvarez",
   name: "William",
   ogImage: "/william.jpg",
   description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "William Alvarez's personal online resume.",
 };
 
 export const socialLinks = {
-  github: "https://github.com/1msirius/williamalvarezdev",
-  linkedin: "https://www.linkedin.com/williamalvarezdev",
+  github: "https://github.com/williamalvarezdev",
+  linkedin: "https://www.linkedin.com/in/williamalvarezdev",
   email: "mailto:williamalvarezdev@gmail.com",
 };
